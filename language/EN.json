@@ -11,17 +11,17 @@
                             "WARN"     : "Warn"
                            },
                   "yt" :   {
-                            "N_SONG"   : "*🧜‍♀️💬ENTER A SONG NAME*\nex : .song faded" ,
-                            "NOT_SONG" : "*SONG NOT FOUND‼️*" ,
-                            "S_YT"     : "*🔍SEARCHING ON YOUTUBE...*" ,
+                            "N_SONG"   : "*🧜‍♀️💬كتب اسم الاغنية متال : .song الاسم" ,
+                            "NOT_SONG" : "*مكيناش هاد الاغنية*" ,
+                            "S_YT"     : "*🔍كنقلب فيوتوب...*" ,
                             "N_YT"     : "*🧜‍♀️💬ENTER A TOPIC* \nex : .getyt sri lanka cricket" ,
-                            "N_VID"    : "*🧜‍♀️💬ENTER A YOUTUBE VIDEO LINK*\nex : .video https://youtu.be/pyCIKli4YUA" ,
-                            "N_FB"     : "*🧜‍♀️💬ENTER A FACEBOOK VIDEO LINK*" , 
-                            "N_MF"     : "*🧜‍♀️💬ENTER A MEDIAFIRE LINK*" , 
-                            "N_TIK"    : "*🧜‍♀️💬ENTER A TIKTOK VIDEO LINK*" ,
-                            "NOT_VID"  : "*VIDEO NOT FOUND‼️*", 
-                            "N_IG "    : "🧜‍♀️💬ENTER A INSTAGRAM LINK",
-                            "N_FOUND"  : "*NOT FOUND‼️*"
+                            "N_VID"    : "*🧜‍♀️💬دير رابط تاع الفيديو فيوتوب متلا*\nex : .video https://youtu.be/pyCIKli4YUA" ,
+                            "N_FB"     : "*🧜‍♀️💬دير ليان ديال فيديو فيسبوك*" , 
+                            "N_MF"     : "*🧜‍♀️💬دير ليان ميديا فاير*" , 
+                            "N_TIK"    : "*🧜‍♀️💬دير ليان تيك توك*" ,
+                            "NOT_VID"  : "*مكاينش الفيديو!!*", 
+                            "N_IG "    : "🧜‍♀️💬دير ليان ديال الانستغرام",
+                            "N_FOUND"  : "*مطلعش!*"
                           } ,
                 "admin" : {  
                              "UR_NOT_ADMIN": "*You are not admin in this group!*",
